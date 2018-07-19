@@ -1,0 +1,20 @@
+## Interface: 70300
+## Title: frozArena
+## Notes: Simplified Arena Frames - Rewrite and update of sArena
+## Author: Frozire
+## Version: 0.0.1
+## X-Category: PvP/Arena
+## X-Credits: Stako04, Tekkub, Starship, Kouri, Kollektiv, Lyn, haste, evl, Zork, jturel
+## RequiredDeps: Blizzard_ArenaUI
+## SavedVariables: frozArenaDB
+
+embeds.xml
+
+init.lua
+
+Data\Manifest.xml
+Frames\Manifest.xml
+Preferences\Manifest.xml
+Test\Manifest.xml
+
+main.lua
